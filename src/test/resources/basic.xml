@@ -1,0 +1,11 @@
+<dataset>
+    <Consignment id="1001" number="20000010151"/>
+    <Consignment id="1002" number="20000010152"/>
+    <Consignment id="1003" number="20000010153"/>
+
+    <Item id="2001" order_id="1002" quantity="1" sku="DKOS02="/>
+
+    <Delivery id="5001" />
+    <Waybill delivery_code="G10001" delivery_id="5001" waybill_seq="0"/>
+    <Waybill delivery_code="G10002" delivery_id="5001" waybill_seq="1"/>
+</dataset>
